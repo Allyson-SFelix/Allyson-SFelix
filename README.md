@@ -21,3 +21,4 @@ Sou desenvolvedor de diversos temas e com varias linguagens de programação, se
     <img height=180rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-SFelix&layout=compact&theme=dark"/>
   </figure>
 </div>
+![snake gif](https://github.com/Allyson-SFelix/Allyson-SFelix/blob/output/github-contribution-grid-snake.svg)
