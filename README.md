@@ -18,6 +18,9 @@
   <img align="center" alt="VSCODE" height="40" width="40" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
 </div>
 </br>
+<div>
+<img height=25rem src="https://komarev.com/ghpvc/?username=Allyson-SFelix"/>
+</div>
 <div class="parteTemas">
   <figure class="valoresPerfil">
   <img height=180rem src="https://github-readme-stats.vercel.app/api?username=Allyson-SFelix&show_icons=true&theme=dark"/>
@@ -26,7 +29,7 @@
     <img height=180rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-SFelix&layout=compact&theme=dark"/>
   </figure>
 </div>
-<table border="0.5">
+<table >
 <caption><h4><strong>Hobbies:</strong></h4></caption>
   <tbody>
     <tr><td><p>Futebol</p></td></tr>
