@@ -13,11 +13,11 @@ Sou desenvolvedor de diversos temas e com varias linguagens de programação, se
   <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
 </br>
-<div class="parteTemas" style="display:inline-block">
-  <figure  align="center" class="valoresPerfil">
-  <img height=200rem src="https://github-readme-stats.vercel.app/api?username=Allyson-SFelix&show_icons=true&theme=dark"/>
+<div class="parteTemas">
+  <figure class="valoresPerfil">
+  <img height=180rem src="https://github-readme-stats.vercel.app/api?username=Allyson-SFelix&show_icons=true&theme=dark"/>
   </figure>
-  <figure align="center" class="linguagens">
-    <img height=200rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-SFelix&layout=compact&theme=dark"/>
+  <figure class="linguagens">
+    <img height=180rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-SFelix&layout=compact&theme=dark"/>
   </figure>
 </div>
