@@ -6,7 +6,8 @@
 <div style="display:inline-block">
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="PYTHON" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="PYTHON" height="40" width="35"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+          
 </div>
 <h4><strong></strong>As Linguagens de Marcação de texto e Estilização que mais tenho habilidade são:</strong></h4>
 <div style="display:inline-block">
