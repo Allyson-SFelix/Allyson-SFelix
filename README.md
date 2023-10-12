@@ -13,6 +13,7 @@
 <div style="display:inline-block">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="CSS3" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 </div>
 <h4><strong></strong>Ambientes de desenvolvimento mais utilizados são:</strong></h4>
 <div style="display:inline-block">
