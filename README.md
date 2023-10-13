@@ -9,7 +9,7 @@
   <img align="center" alt="PYTHON" height="40" width="35"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
           
 </div>
-<h4><strong></strong>As Linguagens de Marcação de texto e Estilização que mais tenho habilidade são:</strong></h4>
+<h4><strong>As Linguagens de Marcação de texto e Estilização que mais tenho habilidade são:</strong></h4>
 <div style="display:inline-block">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -18,6 +18,21 @@
 <h4><strong></strong>Ambientes de desenvolvimento mais utilizados são:</strong></h4>
 <div style="display:inline-block">
   <img align="center" alt="VSCODE" height="40" width="40" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
+</div>
+<div class="projetos">
+   <table>
+    <caption><h4><strong>Projetos em Andamento</strong></h4></caption>
+    <thead>
+      <tr>
+        <th><strong>Nome do projeto</strong></th>
+        <th><strong>Linguagem</strong></th>
+      </tr>
+    </thead>
+     <tbody>
+      <tr><td><p>Fechamento_do_dia</p></td>
+      <td><p>Python</p></td></tr>
+    </tbody>
+  </table>
 </div>
 </br>
 <div class="parteTemas">
