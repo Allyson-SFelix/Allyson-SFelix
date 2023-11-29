@@ -1,7 +1,5 @@
 <h2>Seja Bem vindo ao Meu Perfil</h2>
 -> Olá, meu nome é Allyson, sou estudante de T.I (Tecnologia da Informação) na UFERSA-Pau dos Ferros.</br>
--> Também sou desenvolvedor de diversos projetos e com varias linguagens de programação, sempre em busca da solução de problemas.</br>
--> Amo futebol e sou Corinthiano.
 <h4><strong></strong>As Linguagens de Programação que estou mais familiarizado são:</strong></h4>
 <div style="display:inline-block">
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
