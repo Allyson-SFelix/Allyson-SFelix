@@ -32,8 +32,6 @@
     </tbody>
   </table>
 </div>
-</br>
-
 <table >
 <caption><h4><strong>Hobbies:</strong></h4></caption>
   <tbody>
